@@ -1,2 +1,2 @@
 # C-Seminar
-C-Semiar Project 2021
+C-Seminar Project 2021
